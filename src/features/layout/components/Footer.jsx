@@ -17,14 +17,26 @@ export const Footer = () => {
         © 2026 Carrito de Perfumes
       </Typography>
 
+      {/* Botón GitHub */}
       <Button
         variant="contained"
         color="secondary"
         href="https://github.com/marielsusej17/taller3react"
         target="_blank"
+        sx={{ mt: 1, mr: 1 }}
+      >
+        Ver repositorio
+      </Button>
+
+      {/* Botón Vercel */}
+      <Button
+        variant="contained"
+        color="success"
+        href="https://taller3react.vercel.app"
+        target="_blank"
         sx={{ mt: 1 }}
       >
-        Ver repositorio en GitHub
+        Ver aplicación
       </Button>
     </Box>
   );
