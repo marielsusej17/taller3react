@@ -1,18 +1,60 @@
-# React + Vite
+# 🛍️ Carrito de Perfumes de Marca
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Descripción
+Este proyecto es una aplicación web desarrollada con React y Vite que permite visualizar y gestionar la compra de perfumes de diferentes marcas reconocidas. Los usuarios pueden explorar productos, agregarlos al carrito y simular una experiencia de compra sencilla, rápida e intuitiva.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Características principales
+- 🧴 Visualización de perfumes de distintas marcas
+- 🛒 Carrito de compras dinámico
+- 🔍 Buscador de productos
+- 🧭 Navegación entre secciones (Inicio, Artículos, Ofertas, Favoritos, Mi cuenta)
+- 💻 Diseño responsive adaptable a diferentes dispositivos
+- ⚡ Interfaz rápida gracias a Vite
 
-## React Compiler
+---
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+## 🎨 Interfaz gráfica
+La aplicación cuenta con una interfaz moderna, limpia y organizada, enfocada en la experiencia del usuario:
 
-Note: This will impact Vite dev & build performances.
+- Header con menú de navegación
+- Iconos interactivos (carrito, usuario, favoritos)
+- Listado de productos (perfumes)
+- Botones de acción claros
+- Diseño visual atractivo
 
-## Expanding the ESLint configuration
+📷 Puedes agregar aquí capturas de pantalla de tu aplicación:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🏗️ Arquitectura del proyecto
+
+El proyecto está organizado de manera modular para facilitar su mantenimiento y escalabilidad:
+
+---
+
+## 🧰 Tecnologías utilizadas
+- ⚛️ React
+- ⚡ Vite
+- 🟨 JavaScript
+- 🎨 Material UI (MUI)
+
+---
+
+## 🌐 Despliegue
+La aplicación está desplegada en Vercel:
+
+🔗 https://tu-app.vercel.app
+
+---
+
+## 💻 Repositorio
+Puedes ver el código fuente en GitHub:
+
+🔗 https://github.com/tu-usuario/tu-repositorio
+
+---
+
+## 👩‍💻 Autor
+**Mariel Susej Hernández Mangarre**
